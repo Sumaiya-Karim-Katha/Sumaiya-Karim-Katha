@@ -1,6 +1,6 @@
 # Sumaiya Karim Katha
 
-**AI researcher** · Research Assistant, Center for Computational & Data Sciences (CCDS), Independent University, Bangladesh<br>
+**AI researcher** · Post-Baccalaureate Research Assistant, Center for Computational & Data Sciences (CCDS), Independent University, Bangladesh<br>
 <img src="assets/paper.svg" width="18" height="18"> **ECCV 2026 publication** · 2 more papers under review (WACV 2027, Pattern Recognition)<br>
 <img src="assets/cap.svg" width="18" height="18"> **Seeking a fully funded PhD position, Fall 2027**
 
