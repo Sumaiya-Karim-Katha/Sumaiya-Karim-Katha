@@ -14,16 +14,16 @@
 
 ### <img src="assets/paper.svg" width="22" height="22"> Publications
 - **BaFCo: A Document Understanding Benchmark for Complex Bangla Form Comprehension**<br>
-  *European Conference on Computer Vision (ECCV) 2026* · [arXiv](https://arxiv.org/abs/2607.05614)
-  - Designed the layout annotation schema, led annotation across 300+ multi-page Bangla government forms, and built two synthetic form-filling pipelines (OCR + LLM, and image generation).
+  *European Conference on Computer Vision (ECCV) 2026* · [arXiv](https://arxiv.org/abs/2607.05614)<br>
+  <img src="assets/sparkle.svg" width="14" height="14"> Designed the layout annotation schema, led annotation across 300+ multi-page Bangla government forms, and built two synthetic form-filling pipelines (OCR + LLM, and image generation).
 
 - **Khondo: A Multimodal Benchmark for Document Packet Splitting of Bangla Forms**<br>
-  *WACV 2027 (in rebuttal)* · [arXiv](https://arxiv.org/abs/2607.21780)
-  - A bilingual, vision-native benchmark covering 14 administrative domains and 5 packet-building schemes.
+  *WACV 2027 (in rebuttal)* · [arXiv](https://arxiv.org/abs/2607.21780)<br>
+  <img src="assets/sparkle.svg" width="14" height="14"> A bilingual, vision-native benchmark covering 14 administrative domains and 5 packet-building schemes.
 
 - **TRoPE-TUL: Trajectory-User Linking via Spatio-Temporal Rotary Position Embedding**<br>
-  *Pattern Recognition (under review)* · equal-contribution first author
-  - A Transformer with spatio-temporal rotary position embeddings that links movement trajectories to users. Extended from my undergraduate thesis.
+  *Pattern Recognition (under review)* · equal-contribution first author<br>
+  <img src="assets/sparkle.svg" width="14" height="14"> A Transformer with spatio-temporal rotary position embeddings that links movement trajectories to users. Extended from my undergraduate thesis.
 
 ### <img src="assets/terminal.svg" width="22" height="22"> Research toolkit
 `Python` `PyTorch` `vLLM` `QLoRA` `Transformers` `multimodal LLMs` `OCR pipelines` `LaTeX`
