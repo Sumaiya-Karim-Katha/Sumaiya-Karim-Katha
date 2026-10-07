@@ -30,3 +30,9 @@
 
 ### <img src="assets/mail.svg" width="22" height="22"> Contact
 sk.katha0457@gmail.com
+
+<br>
+<p align="center">
+  <img src="assets/cozy.svg" width="256" alt="pixel cat on a stack of books next to a mug of coffee"><br>
+  <sub>thanks for stopping by</sub>
+</p>
