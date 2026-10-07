@@ -10,7 +10,7 @@
 - **Agentic AI:** LLM agents that plan, act, and adapt to their users
 - **Multimodal document understanding:** layout, forms, OCR, and multi-page reasoning
 - **Interpretability and faithfulness:** testing whether a model's internal reasoning matches its output
-- **Low-resource and multilingual NLP:** Bangla and other South Asian languages
+- **Low-resource and multilingual NLP:** with a focus on Bangla
 
 ### <img src="assets/paper.svg" width="22" height="22"> Publications
 - **BaFCo: A Document Understanding Benchmark for Complex Bangla Form Comprehension**<br>
