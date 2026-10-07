@@ -33,6 +33,6 @@ sk.katha0457@gmail.com
 
 <br>
 <p align="center">
-  <img src="assets/cozy.svg" width="300" alt="pixel black cat walking past flowers"><br>
+  <img src="assets/cozy.svg" width="300" alt="pixel black cat stretching, scratching and grooming among flowers"><br>
   <sub>thanks for stopping by</sub>
 </p>
