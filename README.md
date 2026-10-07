@@ -4,7 +4,9 @@
 <img src="assets/paper.svg" width="18" height="18"> **ECCV 2026 publication** · 2 more papers under review (WACV 2027, Pattern Recognition)<br>
 <img src="assets/cap.svg" width="18" height="18"> **Seeking a fully funded PhD position, Fall 2027**
 
-<img src="assets/cozy.svg" width="200" alt="pixel black cat stretching, scratching and grooming among flowers">
+<p align="center">
+  <img src="assets/cozy.svg" width="300" alt="pixel black cat stretching, scratching and grooming among flowers">
+</p>
 
 ---
 
